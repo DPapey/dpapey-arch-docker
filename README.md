@@ -61,3 +61,7 @@ docker-compose up -d
 - pgAdmin: http://localhost:${PGA_PORT}
 ```
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
