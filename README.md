@@ -8,7 +8,7 @@ This repository contains Docker Compose configurations to quickly spin up scalab
 
 - MariaDB with persistent data volume
 - phpMyAdmin for easy database management
-- PostgreSQL with persistent data volume and initialization scripts
+- PostgreSQL with persistent data volume and initialisation scripts
 - pgAdmin for PostgreSQL management
 - Configured to use environment variables for secure credentials
 - Restart policies for resilience
